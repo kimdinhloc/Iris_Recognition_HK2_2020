@@ -1,2 +1,2 @@
 # Iris_Recognition  
-Đồ án đang được remake lại.
+Đồ án chưa được upload.
